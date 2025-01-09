@@ -1,4 +1,4 @@
-# World Transform Display and Edit Addon (for Blender 3.6.9+)
+# World Transform Display and Edit Addon (for Blender 3.6+)
 
 This addon provides an intuitive way to **display, copy, paste, and edit world transforms** for objects and bones in Blender. It allows precise control over transformations with features like **axis locking** and **undo functionality**, making it ideal for animators and riggers.
 
